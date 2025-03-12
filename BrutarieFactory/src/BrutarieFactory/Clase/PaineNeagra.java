@@ -1,6 +1,7 @@
 package BrutarieFactory.Clase;
 
 public class PaineNeagra extends ProdusPanificatie{
+
     public PaineNeagra() {
         super("PaineNeagra", 350f,12f);
     }

@@ -1,6 +1,7 @@
 package BrutarieFactory.Clase;
 
 public class Franzela extends ProdusPanificatie {
+
     public Franzela() {
         super("Franzela", 300f,11.5f);
     }
